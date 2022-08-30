@@ -3112,9 +3112,9 @@
   integrity sha512-wkFDdY4XtpF+XCqbgwhsrLRgEM/bYfIt47927JTQZQ2QxQYRbSZ6u0QygnVjIR1eqMteRGx2jtUUZ+bxYQTo/w==
 
 "@metamask/smart-transactions-controller@^2.1.0":
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/@metamask/smart-transactions-controller/-/smart-transactions-controller-2.1.0.tgz#a1bfbdab05c0ecd93bac5587b8bc56336bc28cc5"
-  integrity sha512-nhvR44ELv/8iBVHaMT8D6B1KLwm9PAb7BSSLAiteDfncxHj7syNGD0nOFynzKp7TPQuRlPXdFo6Z8zXt6O/krg==
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/@metamask/smart-transactions-controller/-/smart-transactions-controller-2.3.1.tgz#01f3d5e7b1a59782749ee17f19a400434dbbd2c9"
+  integrity sha512-nfMNtXxs/1JEfPomc7P4NuuUCWW2sRxzmKEJZPW1TdSk/Ey1jcf2az42uhYN6brzpt+YEXJFWfS3q6syi1PRmQ==
   dependencies:
     "@metamask/controllers" "^30.0.0"
     "@types/lodash" "^4.14.176"
